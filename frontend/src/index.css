@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #4f46e5;
+  --color-light-blue: #1cbddd;
+  --color-light-green: #4dca79;
+  --color-light-purple: #faf8ff;
+  --color-text-light: #6f6c90;
+  --color-orange: #f28d35;
+  --color-text-color: #2f2f2f;
+  --color-text-color-light: #9c9991;
+  --color-text-color-subtle: #9c9992;
+  --color-wite-accent-color: #e2f2fe;
+  --color-cream-accent-color: #fff8e0;
+  --breakpoint-sm: 375px;
+  --breakpoint-md: 769px;
+  --breakpoint-lg: 1200px;
+  --breakpoint-big: 1440px;
+
+  --font-audiowide: "Audiowide", cursive;
+}
+
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #4f46e5;
+  --color-light-blue: #1cbddd;
+  --color-light-green: #4dca79;
+  --color-light-purple: #faf8ff;
+  --color-text-light: #6f6c90;
+  --color-orange: #f28d35;
+  --color-text-color: #2f2f2f;
+  --color-text-color-light: #9c9991;
+  --color-text-color-subtle: #9c9992;
+  --color-wite-accent-color: #e2f2fe;
+  --color-cream-accent-color: #fff8e0;
+  --breakpoint-sm: 375px;
+  --breakpoint-md: 769px;
+  --breakpoint-lg: 1200px;
+  --breakpoint-big: 1440px;
+
+  --font-sans: "Inter", sans-serif;
+}
